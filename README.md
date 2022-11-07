@@ -6,8 +6,8 @@
 - 🐱‍🚀 Estou estudando JAVA na FUNTEC e estudei front-end & back-end na ETEC Antônio de Pádua Cardoso
 
 <div>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=correagabriel&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correagabriel&layout=compact&langs_count=16&theme=bear"/>
+  <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=correagabriel&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correagabriel&layout=compact&langs_count=16&theme=bear"/>
 </div>
 
 ![Snake animation](https://github.com/correagabriel/correagabriel/blob/output/github-contribution-grid-snake.svg)
