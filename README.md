@@ -2,7 +2,7 @@
 
 - 🐲 Bem vindo ao meu perfil, me chamo Gabriel Corrêa
 - 👾 Sou estudante da Faculdade de Tecnologia do Estado de São Paulo (FATEC)
-- 🐱‍💻 Estou atualmente no 2º semestre
+- 🐱‍💻 Estou atualmente no 3º semestre
 - 🐱‍🚀 Estou estudando JAVA na FUNTEC e estudei front-end & back-end na ETEC Antônio de Pádua Cardoso
 
 <div>
